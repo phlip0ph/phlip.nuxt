@@ -4,7 +4,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'phlip.nuxt',
+    title: 'phlip.dev',
     htmlAttrs: {
       lang: 'en'
     },
